@@ -12,6 +12,8 @@ node_modules
 # Logs
 logs
 *.log
+*.lockb
+*lock.yaml
 
 # Misc
 .DS_Store
